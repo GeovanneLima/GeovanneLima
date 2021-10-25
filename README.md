@@ -1,6 +1,6 @@
 - 👋 |Olá, eu sou @GeovanneLima
 - 👀 |Estou interessado em aprender novas linguagens de programação e me apronfundar cada vez mais nesse universo.
-- 🌱 |Atualmente estou aprendendo HTML, CSS, JavaScript, PHP. Pela faculdade estou aprendo C#, Java e gestão do banco de dados.
+- 🌱 |Atualmente estou aprendendo HTML, CSS, JavaScript, PHP. 
 - 💞️ |Estou participando de alguns projetos com amigos  como o desenvolvimento de páginas e App's
 - 📫 |geovanne.brl@gmail.com 
 <!---
