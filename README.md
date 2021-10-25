@@ -1,5 +1,5 @@
 - 👋 |Olá, eu sou @GeovanneLima
-- 👀 |Busacando aprimorar minhas habilidades como Dev, focado em resultados. 
+- 👀 |Buscando aprimorar minhas habilidades como Dev, focado em resultados. 
 - 🌱 |Conhecimento nas tecnologias: HTML, CSS, JavaScript. 
 - 📫 |geovanne.brl@gmail.com 
 <!---
